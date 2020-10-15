@@ -1,4 +1,4 @@
-# TreinIEEE RAS UFCG 🐍
+# TreinIEEE Python RAS UFCG 🐍
 
 Exemplos de código usados no curso de Introdução à Python oferecido no TreinIEEE da [RAS UFCG](https://github.com/ras-ufcg).
 
