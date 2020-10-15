@@ -7,5 +7,5 @@ A RAS é um capítulo do grupo IEEE. Os objetivos da IEEE Robotics and Automatio
 
 Para maiores informações, visite o site oficial da RAS em [“IEEE Robotics and Automation Society“](https://www.ieee-ras.org/).
 
-## O que o TreinIEEE?
+## O que é o TreinIEEE?
 O IEEE UFCG oference regularmente treinamentos para interessados à ingressar em algum dos capítulos estudantís. Cada capítulo oferece treinamentos específicos, no caso da RAS, entre os treinamentos oferecidos estava o curso introdutório de Python em que fui uma das ministrantes.
